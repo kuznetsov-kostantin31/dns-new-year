@@ -1,5 +1,10 @@
-import { MyButton } from "./my-button";
+import { myInput } from "./my-input";
+import { myText } from "./my-text";
+import {myButton} from './my-button'
+
 
 export default [
-    MyButton,
+    myText,
+    myInput,
+    myButton,
 ]

@@ -13,7 +13,7 @@ export default {
 <template>
  <body>
     <div class="wrap">
-      <img src="/public/image/DNS.svg" class="logo" alt="">
+      <img src="../../../public/image/DNS.svg" class="logo" alt="">
         <div class="column">
             <h2 class="title">Рекомендации <br> подарка</h2>
             <img class="img" src="" alt="">
@@ -21,11 +21,11 @@ export default {
                 <p class="description">Описание</p>
             </div>
             <my-button>Купить</my-button>
-            <img class="star-1" src="/public/image/image 26.svg" alt="">
-            <img class="star-2" src="/public/image/image 17.svg" alt="">
-            <img class="star-3" src="/public/image/image 22.svg" alt="">
-            <img class="star-4" src="/public/image/image 30.svg" alt="">
-            <img class="star-5" src="/public/image/image 26.svg" alt="">
+            <img class="star-1" src="../../../public/image/image 26.svg" alt="">
+            <img class="star-2" src="../../../public/image/image 17.svg" alt="">
+            <img class="star-3" src="../../../public/image/image 22.svg" alt="">
+            <img class="star-4" src="../../../public/image/image 30.svg" alt="">
+            <img class="star-5" src="../../../public/image/image 26.svg" alt="">
         </div>
     </div> 
  </body>
